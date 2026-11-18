@@ -149,3 +149,9 @@ Real Time Whiteboard/
         ├── Header.jsx        # Room badge, dark mode, background picker, avatars
         └── CursorOverlay.jsx # Real-time peer cursors with colored badges
 ```
+
+####  License
+```markdown
+## 📄 License
+
+Distributed under the **MIT License**. See `LICENSE` for more information.
